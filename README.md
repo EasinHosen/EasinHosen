@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EasinHosen
 - 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Mobile App Development with Flutter.
+- 🌱 I’m currently learning Mobile App Development(Android).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
